@@ -24,6 +24,7 @@
 | D-012 | 2026-11-07 | Zenodo DOI 발급: 대표 10.5281/zenodo.24032806, v1.0.0 10.5281/zenodo.24032807. 라이선스 CC BY 4.0 | 검증 |
 | D-013 | 2026-11-07 | v1.0.1 발행(버전 DOI 10.5281/zenodo.24032958). AI 작업 규칙(AGENTS.md)·결정 이력·검증 스크립트 추가 | 편저자 |
 | D-014 | 2026-11-07 | Asia-Pacific Evergreen Scouts(SKT-0009), Silver Wolf Award(SKT-0154)를 다음 판에서 삭제하고 번호는 재사용하지 않는다 | 편저자 |
+| D-015 | 2026-11-07 | Zenodo의 v1.0.0(10.5281/zenodo.24032807)·v1.0.1(10.5281/zenodo.24032958) 기록을 삭제(사유: Retraction/Withdrawal). 두 DOI는 툼스톤 페이지로 남는다. 대표 DOI는 최신판(v1.0.2)으로 연결. ORCID는 대표 DOI로 등록하고 DataCite 자동 갱신을 켬 | 편저자 |
 
 ## 2. 국문 표기
 
