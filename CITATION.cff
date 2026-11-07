@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this glossary, please cite it as below."
 title: "English–Korean Scout Terminology"
 type: dataset
-version: "1.0.0"
+version: "1.0.1"
 doi: "10.5281/zenodo.24032806"
 date-released: "2026-11-07"
 repository-code: "https://github.com/scoutkorea-jimmy/scout-terminology-en-ko"

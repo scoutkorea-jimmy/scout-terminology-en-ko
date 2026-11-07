@@ -20,6 +20,8 @@
 - Added from a review of Korean press usage and the 26th World Scout Jamboree (Poland 2027): Scout Movement, Opening/Closing Ceremony, Arrival (입영), Departure (퇴영), Organizing Committee, On-site/Off-site Programme, Day Visitor Programme, Campsite (영지), Subcamp (분단), Pioneering Project (개척물), Camp Chief (야영장); 세계잼버리 added as a variant of World Scout Jamboree.
 - Source pass: 154 definitions cited, 30 general definitions marked `not_required`, 7 marked `compiler`; WOSM governance definitions checked against the WSC Standing Orders (2024) and treehouse.scout.org; SCENES updated to its current name (…Nature, Environment and Sustainability). README states the criteria behind `editorial_choice`.
 
-## Unreleased
+## 1.0.1 — 2026-11-07
+- Added AGENTS.md (rules for editors and AI assistants), docs/DECISIONS.md (decision history), tools/validate.py (rule checks) and CLAUDE.md.
+- README: DOI, citation and maintenance sections.
 - Five definitions rewritten in the plain written style used elsewhere (Cub Scouts, Scouts, Venture Scouts, Rover Scouts, World Scout Jamboree); inline "출처:" text moved to the `source` field.
 - Korea Scout Parliamentary Union: removed an unverified statement about its relation to the World Scout Parliamentary Union.
