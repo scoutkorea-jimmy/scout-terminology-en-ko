@@ -1,0 +1,11 @@
+{
+  "title": "English–Korean Scout Terminology",
+  "upload_type": "dataset",
+  "description": "A proposed reference glossary of English–Korean Scouting terms with Korean renderings, Korean definitions, sources and verification status. Compiled from the BP Media Scout Glossary, Korea Scout Association regulations and official history, WOSM and World Scout Bureau publications, and Korean press usage. Intended for translators, editors and AI-assisted translation workflows. Not an official Korea Scout Association or WOSM standard.",
+  "creators": [
+    {"name": "Park, Jimin", "affiliation": "Independent Researcher", "orcid": "0009-0000-5227-620X"}
+  ],
+  "keywords": ["Scouting", "Youth", "Education", "Terminology", "Translation", "Korean", "WOSM"],
+  "license": "cc-by-4.0",
+  "language": "kor"
+}
