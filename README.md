@@ -93,6 +93,8 @@ translation workflows.
 
 ## Using this glossary with AI translation
 
+For English–Korean or Korean–English work, see the separate [Scout Terminology skill and plugin](https://github.com/scoutkorea-jimmy/scout-terminology-skill). It instructs compatible AI tools to check the latest published Zenodo version; Korean terms with multiple English equivalents require contextual review. Installation and internet access depend on the tool.
+
 Language models do not consult this glossary on their own. Supply it explicitly, for example:
 
 > Translate the following Scouting text from English to Korean. Use the attached glossary

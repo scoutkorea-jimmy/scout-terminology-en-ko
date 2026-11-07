@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Linked the separate bilingual Scout Terminology skill and plugin.
 - Added the Zenodo v1.0.2 version DOI to README after release.
 
 ## 1.0.2 — 2026-11-07
