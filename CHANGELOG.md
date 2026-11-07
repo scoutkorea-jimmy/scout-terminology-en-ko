@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Corrected the v1.0.1 citation DOI and clarified the stated CC BY 4.0 licence while retaining the outstanding third-party text review.
+
 ## 1.0.1 — 2026-11-07
 - Added AGENTS.md (rules for editors and AI assistants), docs/DECISIONS.md (decision history), tools/validate.py (rule checks) and CLAUDE.md.
 - README: DOI, citation and maintenance sections.

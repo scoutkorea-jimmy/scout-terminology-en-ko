@@ -99,7 +99,8 @@ Language models do not consult this glossary on their own. Supply it explicitly,
 
 ## Licence
 
-Proposed: CC BY 4.0, subject to confirming that no definition reproduces third-party text verbatim.
+This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Whether any definition reproduces third-party text verbatim remains to be confirmed.
 
 ## Maintaining this dataset
 
@@ -110,4 +111,4 @@ scope decisions is in [docs/DECISIONS.md](docs/DECISIONS.md). Run `python3 tools
 ## How to cite
 
 Park, J. (2026). *English–Korean Scout Terminology* (Version 1.0.1) [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.XXXXXXX
+https://doi.org/10.5281/zenodo.24032958
