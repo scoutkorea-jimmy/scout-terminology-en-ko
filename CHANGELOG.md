@@ -1,7 +1,15 @@
 # Changelog
 
-## Unreleased
+## 1.0.2 — 2026-11-07
 - Corrected the v1.0.1 citation DOI and clarified the stated CC BY 4.0 licence while retaining the outstanding third-party text review.
+- Removed SKT-0189 (Youth Advisor to the Regional Scout Committee); its identifier remains retired. Added SKT-0192 for Asia-Pacific Regional Youth Representatives and the former YAMG name, and updated SKT-0138. See D-141.
+- Removed SKT-0009 (Asia-Pacific Evergreen Scouts) and SKT-0154 (Silver Wolf Award) at the compiler's direction; their identifiers remain retired.
+- SKT-0005: removed the unconfirmed etymological explanation; SKT-0023: clarified that the current official English name remains unconfirmed.
+- SKT-0111: added primary sources; SKT-0036: clarified that its current official English name is unconfirmed. Clarified timestamp and verification limitations.
+- Added sources and refined definitions for SKT-0011, SKT-0025, SKT-0045, SKT-0046 and SKT-0138; replaced an inaccessible source and clarified the status of SKT-0087.
+- Added a next-release review note covering remaining source and rights checks.
+- Invited readers to suggest corrections and improved terminology by email or through GitHub Issues.
+- Improved malformed CSV errors and added warnings for partially verified entries.
 
 ## 1.0.1 — 2026-11-07
 - Added AGENTS.md (rules for editors and AI assistants), docs/DECISIONS.md (decision history), tools/validate.py (rule checks) and CLAUDE.md.

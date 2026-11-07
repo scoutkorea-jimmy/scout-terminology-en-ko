@@ -85,6 +85,7 @@
 | Chairperson / Vice-Chairperson (Committee) | 의장 / 부의장 |
 | Regional Scout Conference / Committee | 지역 총회 / 지역 이사회 |
 | Youth Advisor (WSC) | 세계청년이사(2024년 종료된 역사적 직위) |
+| Asia-Pacific Regional Youth Representatives | 아시아-태평양 청년이사(이전 명칭 YAMG; 일반화된 지역청년이사 항목은 사용하지 않음) |
 | World Scout Foundation | 세계스카우트지원재단 |
 | Personal Progression | 진보과정 |
 | Non-formal Education | 비정형학습 |

@@ -29,12 +29,20 @@ raw = open(PATH, "rb").read()
 if not raw.startswith(b"\xef\xbb\xbf"):
     errors.append("terms.csv must be UTF-8 with BOM")
 rows = list(csv.reader(io.StringIO(raw.decode("utf-8-sig"))))
+if not rows:
+    print("ERROR terms.csv is empty")
+    sys.exit(1)
 if rows[0] != COLUMNS:
-    errors.append(f"header mismatch: {rows[0]}")
-data = [dict(zip(rows[0], r)) for r in rows[1:]]
+    print(f"ERROR header mismatch: {rows[0]}")
+    sys.exit(1)
 for i, r in enumerate(rows[1:], 2):
     if len(r) != len(rows[0]):
         errors.append(f"line {i}: {len(r)} fields, expected {len(rows[0])}")
+if errors:
+    for e in errors:
+        print("ERROR", e)
+    sys.exit(1)
+data = [dict(zip(rows[0], r)) for r in rows[1:]]
 
 ids = [d["term_id"] for d in data]
 nums = []
@@ -56,6 +64,8 @@ for d in data:
         errors.append(f"{t}: bad scope {d['scope']}")
     if d["verify_status"] not in VERIFY:
         errors.append(f"{t}: unknown verify_status {d['verify_status']}")
+    if d["verify_status"] == "partly_verified":
+        warnings.append(f"{t}: partly verified; review verify_note before release")
     if d["source_status"] not in SOURCE:
         errors.append(f"{t}: unknown source_status {d['source_status']}")
     if d["source_status"] == "cited" and not d["source"]:

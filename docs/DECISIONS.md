@@ -23,6 +23,7 @@
 | D-011 | 2026-11-07 | `source_status`를 cited · not_required · compiler 세 가지로 둔다 | AI 제안·편저자 승인 |
 | D-012 | 2026-11-07 | Zenodo DOI 발급: 대표 10.5281/zenodo.24032806, v1.0.0 10.5281/zenodo.24032807. 라이선스 CC BY 4.0 | 검증 |
 | D-013 | 2026-11-07 | v1.0.1 발행(버전 DOI 10.5281/zenodo.24032958). AI 작업 규칙(AGENTS.md)·결정 이력·검증 스크립트 추가 | 편저자 |
+| D-014 | 2026-11-07 | Asia-Pacific Evergreen Scouts(SKT-0009), Silver Wolf Award(SKT-0154)를 다음 판에서 삭제하고 번호는 재사용하지 않는다 | 편저자 |
 
 ## 2. 국문 표기
 
@@ -38,7 +39,7 @@
 | D-108 | World Scout Bureau | 세계사무국 | 세계스카우트사무국(이형) | 편저자(사무총장과 짝) · 연맹 보도자료 "세계사무국"(2005) |
 | D-109 | Global Support Centre | 세계사무국 본부 | 옛 영문 Central Office | AI 제안·편저자 승인(WSB 전체와 구분) |
 | D-110 | Youth Advisor to the World Scout Committee | 세계청년이사 | "청소년자문위원"은 실제 용례 없음 → 삭제 | 편저자 |
-| D-111 | Youth Advisor to the Regional Scout Committee | 지역청년이사 | | AI 제안(세계청년이사와 형식 통일) |
+| D-111 | Youth Advisor to the Regional Scout Committee | 지역청년이사 | → D-141로 철회 | AI 제안(세계청년이사와 형식 통일) |
 | D-112 | World Scout Foundation | 세계스카우트지원재단 | 세계스카우트재단(이형) | 편저자 · 연맹 연혁 "세계스카우트지원재단회의"(2008) |
 | D-113 | Safe from Harm | 위해로부터안전 | 연맹 국내 정책명은 안전보호정책(별도 항목) | 편저자 |
 | D-114 | Non-formal Education | 비정형학습 | 비형식교육(이형, 교육학 일반 번역) | 편저자 |
@@ -68,6 +69,7 @@
 | D-138 | Arrival / Departure | 입영 / 퇴영 | 폴란드 제26회 세계잼버리 일정 사례 | 편저자 · 대회 공식 사이트 |
 | D-139 | Camp Chief | 야영장 | 장소 "야영장(場)"과 동음, 문맥 구분 | 편저자 |
 | D-140 | World Scout Jamboree | (기존 유지) | 이형 "세계잼버리" 추가(언론 최다 용례) | 편저자 |
+| D-141 | Asia-Pacific Regional Youth Representatives | 아시아-태평양 청년이사 | 일반화된 지역청년이사 항목 SKT-0189 삭제, 번호 영구 보존. 새 항목 SKT-0192. 이전 명칭 Young Adult Members Group (YAMG), 2019년 RYR로 변경 | 편저자 · 제28차 아시아태평양지역 총회 문서 7; WOSM APR Vision 2020 |
 
 ## 3. 사실 확인 기록
 
@@ -85,6 +87,7 @@
 
 - 종교계 국제 스카우트 기구(D-003), 각국 연맹 고유 명칭(D-001)
 - Founder's Day(편저자 지시로 삭제, v1.0.0 이전 작업 번호 SKT-0018)
+- Asia-Pacific Evergreen Scouts(SKT-0009), Silver Wolf Award(SKT-0154) — D-014
 - WOSM Treasurer, Youth Programme, World Adults in Scouting Policy, WOSM Services
 - 상징·관습(경례, 왼손 악수, 항건고리 등), 단위대·직책(대, 반, 반장 등), 컵스카우트 급위, 연맹 규정 세부 용어(취미장, 도전장 등) — 추후 검토
 - 중앙명예회의, 쿠두 잼버렛, 패트롤잼버리, 기독교연맹(영문명 미확보), 스카우트 전략, 세계스카우트센터

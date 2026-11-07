@@ -1,13 +1,15 @@
 # English–Korean Scout Terminology
 
-**Version:** 1.0.1 · **Snapshot:** 7 November 2026
+**Version:** 1.0.2 · **Snapshot:** 7 November 2026
 **DOI:** [10.5281/zenodo.24032806](https://doi.org/10.5281/zenodo.24032806) (all versions) · v1.0.1: [10.5281/zenodo.24032958](https://doi.org/10.5281/zenodo.24032958)
 **Author:** Jimin Park (박지민), Independent Researcher · ORCID [0009-0000-5227-620X](https://orcid.org/0009-0000-5227-620X)
 **Sources:** BP Media Scout Glossary (bpmedia.net/glossary); Korea Scout Association regulations, policy documents, official history and a previously distributed glossary; WOSM and World Scout Bureau publications; Korean press usage
 
+> The v1.0.2 version DOI will be added after Zenodo registers the release.
+
 ## What this is
 
-A reference glossary of 191 Scouting terms with their English source form, a Korean rendering
+A reference glossary of 189 Scouting terms with their English source form, a Korean rendering
 and a Korean definition. It covers the elements of the Scout Method, age sections, ranks and
 awards, roles and qualifications, WOSM governance bodies and positions, World Scout Bureau
 support centres, events and camp operations, international organisations, Korea Scout Association
@@ -17,7 +19,7 @@ It also records cross-national equivalences: for example, Malaysia's *Pengakap K
 and Indonesia's *Siaga* are mapped to the Korean Cub Scout section. Such mappings are rarely
 documented in one place and are a common source of translation error.
 
-Names of national Scout organisations and faith-based international Scout bodies are deliberately excluded from this release. The regional and special councils of the Korea Scout Association are included, because their English names are fixed by a glossary the Association distributed.
+Names of national Scout organisations and faith-based international Scout bodies are deliberately excluded from this release. Regional and special councils of the Korea Scout Association are included; some English names draw on an older Association glossary, while others need confirmation (see `verify_note`).
 
 ## Why it exists
 
@@ -62,7 +64,10 @@ translation workflows.
 - `source_status`: `cited` = the definition is linked to a published source; `not_required` = a general
   definition with no specific factual claim; `compiler` = based on the compiler's knowledge of Korean
   Scouting practice, with no published source yet.
-- National programmes change. Age ranges and rank names are valid as of `bp_updated_at`.
+- National programmes change. `bp_updated_at` is the source database's last update where available,
+  not a verification date. An empty value does not mean an entry is current; check dated sources.
+- Verification status does not necessarily cover every field: a Korean rendering can be verified
+  while the current official English name remains unconfirmed. See `verify_note`.
 - Korean definitions only. English definitions are planned for a later version.
 
 ## Columns (`terms.csv`, UTF-8 with BOM)
@@ -104,11 +109,19 @@ Whether any definition reproduces third-party text verbatim remains to be confir
 
 ## Maintaining this dataset
 
+If you find an error, a more appropriate term, or material that needs correction, please contact
+the compiler at [hello@jimmypark.net](mailto:hello@jimmypark.net) at any time or open a
+[GitHub Issue](https://github.com/scoutkorea-jimmy/scout-terminology-en-ko/issues). Please include
+the entry ID and supporting sources where possible. The compiler will review suggestions and
+make appropriate corrections as promptly as possible.
+
 Rules for editors and AI assistants are in [AGENTS.md](AGENTS.md); the history of naming and
 scope decisions is in [docs/DECISIONS.md](docs/DECISIONS.md). Run `python3 tools/validate.py`
 (Python 3, standard library only) before every commit. `term_id` values are permanent from v1.0.0.
+The validator checks two-letter scope format, not ISO membership. It cannot establish factual
+accuracy, copyright clearance or identifier continuity between releases; review these separately.
 
 ## How to cite
 
-Park, J. (2026). *English–Korean Scout Terminology* (Version 1.0.1) [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.24032958
+Park, J. (2026). *English–Korean Scout Terminology* (Version 1.0.2) [Data set]. Zenodo.
+https://doi.org/10.5281/zenodo.24032806
