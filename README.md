@@ -1,6 +1,6 @@
 # English–Korean Scout Terminology
 
-**Version:** 1.0.0-draft (not yet published) · **Snapshot:** 7 November 2026
+**Version:** 1.0.0 · **Snapshot:** 7 November 2026
 **Author:** Jimin Park (박지민), Independent Researcher · ORCID [0009-0000-5227-620X](https://orcid.org/0009-0000-5227-620X)
 **Sources:** BP Media Scout Glossary (bpmedia.net/glossary); Korea Scout Association regulations, policy documents, official history and a previously distributed glossary; WOSM and World Scout Bureau publications; Korean press usage
 

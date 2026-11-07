@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0-draft — 2026-11-07
+## 1.0.0 — 2026-11-07
 - First compilation: 191 terms, numbered SKT-0001–SKT-0191 in English alphabetical order of `term_en`.
 - Sources: BP Media Scout Glossary (bpmedia.net/glossary), five Korea Scout Association regulations (지도자 규정, 포상규정, 진보과정 규정, 제복장구 규정, Youth Hero상 운영규정), a Scout glossary previously distributed by the Korea Scout Association, the KSA Safeguarding Policy (2025), WOSM and World Scout Bureau publications, and Korean press usage.
 - Scope: Scout Method, sections and KSA ranks, awards, roles and qualifications, WOSM governance bodies and positions, World Scout Bureau support centres, WOSM regions, events, international organisations, KSA councils, documents, uniform items and pioneering skills. Names of national Scout organisations and faith-based international Scout bodies are excluded.
