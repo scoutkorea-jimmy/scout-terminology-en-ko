@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Added the Zenodo v1.0.2 version DOI to README after release.
+
 ## 1.0.2 — 2026-11-07
 - Corrected the v1.0.1 citation DOI and clarified the stated CC BY 4.0 licence while retaining the outstanding third-party text review.
 - Removed SKT-0189 (Youth Advisor to the Regional Scout Committee); its identifier remains retired. Added SKT-0192 for Asia-Pacific Regional Youth Representatives and the former YAMG name, and updated SKT-0138. See D-141.

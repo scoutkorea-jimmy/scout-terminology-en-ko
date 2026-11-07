@@ -1,11 +1,9 @@
 # English–Korean Scout Terminology
 
 **Version:** 1.0.2 · **Snapshot:** 7 November 2026
-**DOI:** [10.5281/zenodo.24032806](https://doi.org/10.5281/zenodo.24032806) (all versions) · v1.0.1: [10.5281/zenodo.24032958](https://doi.org/10.5281/zenodo.24032958)
+**DOI:** [10.5281/zenodo.24032806](https://doi.org/10.5281/zenodo.24032806) (all versions) · v1.0.2: [10.5281/zenodo.24033670](https://doi.org/10.5281/zenodo.24033670)
 **Author:** Jimin Park (박지민), Independent Researcher · ORCID [0009-0000-5227-620X](https://orcid.org/0009-0000-5227-620X)
 **Sources:** BP Media Scout Glossary (bpmedia.net/glossary); Korea Scout Association regulations, policy documents, official history and a previously distributed glossary; WOSM and World Scout Bureau publications; Korean press usage
-
-> The v1.0.2 version DOI will be added after Zenodo registers the release.
 
 ## What this is
 
@@ -124,4 +122,4 @@ accuracy, copyright clearance or identifier continuity between releases; review 
 ## How to cite
 
 Park, J. (2026). *English–Korean Scout Terminology* (Version 1.0.2) [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.24032806
+https://doi.org/10.5281/zenodo.24033670
