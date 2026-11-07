@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1 — 2026-11-07
+- Added AGENTS.md (rules for editors and AI assistants), docs/DECISIONS.md (decision history), tools/validate.py (rule checks) and CLAUDE.md.
+- README: DOI, citation and maintenance sections.
+- Five definitions rewritten in the plain written style used elsewhere (Cub Scouts, Scouts, Venture Scouts, Rover Scouts, World Scout Jamboree); inline "출처:" text moved to the `source` field.
+- Korea Scout Parliamentary Union: removed an unverified statement about its relation to the World Scout Parliamentary Union.
+
 ## 1.0.0 — 2026-11-07
 - First compilation: 191 terms, numbered SKT-0001–SKT-0191 in English alphabetical order of `term_en`.
 - Sources: BP Media Scout Glossary (bpmedia.net/glossary), five Korea Scout Association regulations (지도자 규정, 포상규정, 진보과정 규정, 제복장구 규정, Youth Hero상 운영규정), a Scout glossary previously distributed by the Korea Scout Association, the KSA Safeguarding Policy (2025), WOSM and World Scout Bureau publications, and Korean press usage.
@@ -19,9 +25,3 @@
 - Leading "The" removed from headwords (Scout Method, Scout Promise and Law, World Scout Moot, World Scout Education Congress); the full forms are kept in `term_en_variant`.
 - Added from a review of Korean press usage and the 26th World Scout Jamboree (Poland 2027): Scout Movement, Opening/Closing Ceremony, Arrival (입영), Departure (퇴영), Organizing Committee, On-site/Off-site Programme, Day Visitor Programme, Campsite (영지), Subcamp (분단), Pioneering Project (개척물), Camp Chief (야영장); 세계잼버리 added as a variant of World Scout Jamboree.
 - Source pass: 154 definitions cited, 30 general definitions marked `not_required`, 7 marked `compiler`; WOSM governance definitions checked against the WSC Standing Orders (2024) and treehouse.scout.org; SCENES updated to its current name (…Nature, Environment and Sustainability). README states the criteria behind `editorial_choice`.
-
-## 1.0.1 — 2026-11-07
-- Added AGENTS.md (rules for editors and AI assistants), docs/DECISIONS.md (decision history), tools/validate.py (rule checks) and CLAUDE.md.
-- README: DOI, citation and maintenance sections.
-- Five definitions rewritten in the plain written style used elsewhere (Cub Scouts, Scouts, Venture Scouts, Rover Scouts, World Scout Jamboree); inline "출처:" text moved to the `source` field.
-- Korea Scout Parliamentary Union: removed an unverified statement about its relation to the World Scout Parliamentary Union.
