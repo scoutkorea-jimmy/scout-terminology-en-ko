@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Added the Zenodo v1.0.3 version DOI to the README and citation example.
+
 ## 1.0.3 — 2026-11-22
 
 - Added 48 entries for WOSM governance, environmental programmes, age-section roles and the Strategy for Scouting. The strategy title links the three headings and ten items shown in the display.
