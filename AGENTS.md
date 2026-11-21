@@ -87,7 +87,8 @@
 | Youth Advisor (WSC) | 세계청년이사(2024년 종료된 역사적 직위) |
 | Asia-Pacific Regional Youth Representatives | 아시아-태평양 청년이사(이전 명칭 YAMG; 일반화된 지역청년이사 항목은 사용하지 않음) |
 | World Scout Foundation | 세계스카우트지원재단 |
-| Personal Progression | 진보과정 |
+| Personal Progression | 진보제도 (스카우트 방법론 요소) |
+| Adult Support | 성인 인적자원 지원 (스카우트 방법론 요소) |
 | Non-formal Education | 비정형학습 |
 | Safe from Harm | 위해로부터안전(연맹 국내 정책명은 안전보호정책) |
 | KSA 지방·특수연맹 | "○○연맹"(예: Jeonbuk Council / 전북연맹). "한국스카우트", "Korea Scout Association"을 붙이지 않음 |

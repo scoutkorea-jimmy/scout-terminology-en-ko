@@ -1,6 +1,13 @@
 # Changelog
 
-## Unreleased
+## 1.0.3 — 2026-11-22
+
+- Added 48 entries for WOSM governance, environmental programmes, age-section roles and the Strategy for Scouting. The strategy title links the three headings and ten items shown in the display.
+- Updated 16 existing entries. Retained all 189 previously published identifiers.
+- Aligned Korean Scout Method element names with the 2025 training leaders meeting banner and retained previous renderings as variants where applicable.
+- Distinguished the organisational and membership contexts of the shared Korean rendering 회원국.
+- Recorded the Korea Scout Association’s use of 세계스카우트자연환경프로그램 (WSEP), the two pending Korean renderings, the Patrol and Team Leader variants, 스카우트지도자 for Scoutmaster, and 플뢰르 드 리스 for fleur-de-lys.
+
 - Linked the separate bilingual Scout Terminology skill and plugin.
 - Added the Zenodo v1.0.2 version DOI to README after release.
 

@@ -1,13 +1,19 @@
 # English–Korean Scout Terminology
 
-**Version:** 1.0.2 · **Snapshot:** 7 November 2026
+**Version:** 1.0.3 · **Released:** 22 November 2026
 **DOI:** [10.5281/zenodo.24032806](https://doi.org/10.5281/zenodo.24032806) (all versions) · v1.0.2: [10.5281/zenodo.24033670](https://doi.org/10.5281/zenodo.24033670)
 **Author:** Jimin Park (박지민), Independent Researcher · ORCID [0009-0000-5227-620X](https://orcid.org/0009-0000-5227-620X)
 **Sources:** BP Media Scout Glossary (bpmedia.net/glossary); Korea Scout Association regulations, policy documents, official history and a previously distributed glossary; WOSM and World Scout Bureau publications; Korean press usage
 
+## Changes in v1.0.3
+
+Adds 48 entries and updates 16 existing entries. No published term IDs were deleted. The eight Scout Method elements follow the Korean wording transcribed from the banner at the 2025 national training leaders meeting. The preferred Korean headword for Adult Support is 성인 인적자원 지원. Strategy for Scouting (SKT-0242) connects three headings and ten individual entries. Their Korean wording comes from a bilingual display. Forms used in the accompanying English diagram are recorded as variants where they differ from the adopted strategy.
+
+Healthy Planet (SKT-0199) and Healer for a Healthy Planet (SKT-0200) have no settled Korean rendering in this glossary. Their English headwords temporarily fill the required Korean field. Both entries carry the note 국문 표기 미정.
+
 ## What this is
 
-A reference glossary of 189 Scouting terms with their English source form, a Korean rendering
+A reference glossary of 237 Scouting terms with their English source form, a Korean rendering
 and a Korean definition. It covers the elements of the Scout Method, age sections, ranks and
 awards, roles and qualifications, WOSM governance bodies and positions, World Scout Bureau
 support centres, events and camp operations, international organisations, Korea Scout Association
@@ -123,5 +129,5 @@ accuracy, copyright clearance or identifier continuity between releases; review 
 
 ## How to cite
 
-Park, J. (2026). *English–Korean Scout Terminology* (Version 1.0.2) [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.24033670
+Park, J. (2026). *English–Korean Scout Terminology* (Version 1.0.3) [Data set]. Zenodo.
+https://doi.org/10.5281/zenodo.24032806
